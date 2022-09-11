@@ -10,6 +10,7 @@ function App() {
         <p>
           I'M A CREATIVE WEB DEVELOPER
         </p>
+        <p>Estoy destinado a ser un gran éxito en la vida.</p>
       </header>
     </div>
   );

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eduerportfolio-dev-211539-authRole",
+      "UnauthRoleArn": "arn:aws:iam::959148790257:role/amplify-eduerportfolio-dev-211539-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::959148790257:role/amplify-eduerportfolio-dev-211539-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-eduerportfolio-dev-211539-deployment",
+      "UnauthRoleName": "amplify-eduerportfolio-dev-211539-unauthRole",
+      "StackName": "amplify-eduerportfolio-dev-211539",
+      "StackId": "arn:aws:cloudformation:us-west-2:959148790257:stack/amplify-eduerportfolio-dev-211539/a2d37630-3177-11ed-819e-069a7fa6f33f",
+      "AmplifyAppId": "d3mgg8p239eznp"
+    }
+  }
+}
